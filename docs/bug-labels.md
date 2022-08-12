@@ -8,6 +8,8 @@ bug sheriff about your bug.
 
 ## Labeling Bugs
 
+## Tester
+
 Here are the different (actively used) labels and what they mean, organized by category bucket: 
 
 ### Priority Labels
